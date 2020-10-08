@@ -7,3 +7,5 @@ The searching uses Beautiful soup to scrape the desired type of results from goo
 API's are used to fetch informnation from Wikipedia and for Weather.
 <br>
 All this bundled with intelligent string handling and gTTs(google text to speech) gives us J.A.R.V.I.S<br>
+<br>
+The package is bundled into a single executable file (.exe found in this repository) so it can be directly run from your windows machine without installing all the required libraries. 
