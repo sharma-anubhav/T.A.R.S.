@@ -5,6 +5,9 @@ T.A.R.S. is a fully automated Virtual Assistant (Voice operated) that uses googl
 ### Video Link: https://youtu.be/mYbOPJcwrPQ
 ### WebApp Repo: https://github.com/sharma-anubhav/DS3
 ### WebApp link: https://anubhavs.pythonanywhere.com/
+### Windows download link: https://github.com/sharma-anubhav/T.A.R.S./raw/master/V-1.0/Jarvis.exe
+### Mac download link: https://github.com/sharma-anubhav/T.A.R.S./raw/master/V-1.0/Jarvis
+
 <br>
 
 ## Functionalities 
